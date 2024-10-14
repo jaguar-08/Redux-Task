@@ -24,4 +24,4 @@ Usage :
 
 * Dispatch actions to update the Redux store state for managing the cart items and quantities.
 
-Deployed Url : https://stunning-smakager-702be7.netlify.app/
+Deployed Url : https://redux-task-khaki.vercel.app/
